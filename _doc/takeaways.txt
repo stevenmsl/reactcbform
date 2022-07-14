@@ -1,0 +1,2 @@
+- use custom hooks instead of components to manage the state #TA01
+  - we use reducer in this case
